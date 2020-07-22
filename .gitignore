@@ -1,3 +1,6 @@
 env/
-c_01/.DS_Store
-
+*/.DS_Store
+.DS_Store
+c_01_functional/.ipynb_checkpoints
+c_04_oop/.ipynb_checkpoints
+c_05_nlp/.ipynb_checkpoints
